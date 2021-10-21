@@ -4,4 +4,3 @@
     npm install
 ### Lancer l’application
     npm start
-

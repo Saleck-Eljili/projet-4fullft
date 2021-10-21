@@ -1,0 +1,40 @@
+:root {
+  --main-color: #4D0302;
+  --main-bg-color: #FFF6D6;
+  --second-bg-color: #FFFCF0;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: var(--main-color);
+  font-family: Inconsolata;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Fredoka One;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+button {
+  color: var(--main-color);
+  font-family: Inconsolata;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+main {
+  background-color: var(--main-bg-color);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
