@@ -17,8 +17,12 @@ fonctionnalités demandées sont présentes.
 ## Structure
 
 
-public
-images
-src
-data
-fichiers composant et style 
+
+- public
+- [ ] images
+
+- src
+
+- [ ] data
+
+- [ ] fichiers composant et style 
